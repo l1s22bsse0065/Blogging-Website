@@ -1,0 +1,12 @@
+/* blog.css */
+main {
+    padding: 2rem;
+    background-color: #fff0e6;
+  }
+  
+  article {
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 1rem;
+  }
+  
