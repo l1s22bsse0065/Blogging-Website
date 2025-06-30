@@ -1,0 +1,32 @@
+/* contact.css */
+main {
+    padding: 2rem;
+    background-color: #e6ffe6;
+  }
+  
+  form label {
+    font-weight: bold;
+  }
+  
+  input, textarea {
+    width: 100%;
+    max-width: 400px;
+    padding: 0.5rem;
+    margin-top: 0.2rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #004080;
+    color: white;
+    border: none;
+    padding: 0.7rem 1.5rem;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: #002050;
+  }
+  
